@@ -126,6 +126,8 @@ a {
 a:active,
 a:hover {
     outline: 0;
+    text-decoration: underline;
+    opacity: initial;
 }
 b,
 strong {
